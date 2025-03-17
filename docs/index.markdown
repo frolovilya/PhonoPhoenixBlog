@@ -5,29 +5,23 @@
 layout: home
 ---
 
+<div class="bannersGroup">
 
-<div style="display: table; width: 100%; border-collapse: separate;">
-
-<div style="display: table-cell; width: 50%; height: 270px; background: url(assets/shopBanner.png); background-size: cover; color: white; border-right: 5px solid transparent; background-clip: padding-box;">
-<div style="padding: 15px 5px 10px 15px;">
-    <div style="font-weight: bold; font-size: 28px; margin: 0; padding: 0px 10px 0px 10px; background-color: rgba(0, 0, 0, 0.8); display: inline-block;">
-    Shop</div>
+<div class="banner bannerShop">
+<div class="bannerInner">
+    <div class="bannerTitle">Shop</div>
     <br>
-    <div style="margin: 0; padding: 2px 10px 2px 10px; background-color: rgba(0, 0, 0, 0.8); display: inline-block;">
-    3D-Printed Turntable Spare Parts</div>
+    <div class="bannerSubtitle">3D-Printed Turntable Spare Parts</div>
     <br>
-    <div style="font-style: italic; color: gray; margin: 0; padding: 2px 10px 2px 10px; background-color: rgba(0, 0, 0, 0.8); display: inline-block;">
-    Coming soon...</div>
+    <div class="bannerComingSoon">Coming soon...</div>
 </div>
 </div>
 
-<a href="/blog" style="display: table-cell; width: 50%; height: 270px; background: url(assets/blogBanner.png); background-size: cover; color: white; border-left: 5px solid transparent; background-clip: padding-box;">
-<div style="padding: 15px 5px 10px 15px;">
-    <div style="font-weight: bold; font-size: 28px; margin: 0; padding: 0px 10px 0px 10px; background-color: rgba(0, 0, 0, 0.8); display: inline-block;">
-    Blog</div>
+<a href="/blog" class="banner bannerBlog">
+<div class="bannerInner">
+    <div class="bannerTitle">Blog</div>
     <br>
-    <div style="margin: 0; padding: 2px 10px 2px 10px; background-color: rgba(0, 0, 0, 0.8); display: inline-block;">
-    Electronics Repair Notes</div>
+    <div class="bannerSubtitle">Electronics Repair Notes</div>
 </div>
 </a>
 
