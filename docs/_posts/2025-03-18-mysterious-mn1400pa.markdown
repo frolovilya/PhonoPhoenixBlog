@@ -7,13 +7,13 @@ categories: blog
 author: Ilia Frolov
 ---
 
-MN1400PA is a Technics proprietary 28-pin microcontroller that controls turntable automatic: 
+The MN1400PA is a 28-pin proprietary microcontroller developed by Technics, responsible for controlling the automatic functions of their turntables, including tonearm movement, start/stop and cueing mechanisms.
 
 <div class="blogPostImage">
 <img src="/assets/mysterious-mn1400pa/mn1400pa.jpeg" alt="MN1400PA Microcontroller"/>
 </div>
 
-This post is written with the reference to the Technics SL10 model, but the MCU is also present at least in SL-1600mk2 model, as I had to dive into microcontrollers pins and conditional logic, to troubleshoot the start/stop and tonearm operations. Unfortunately, SL10 service manual doesn’t cover MN1400PA in details. I’m writing this notes as a cheatsheet for future me and for someone, who ever faces similar questions, as I just can't keep this in my head.
+This post is focused on the Technics SL-10 model, but the MN1400PA microcontroller is also used in other models, such as the SL-1600MK2. I had to dive deep into the microcontroller's pinout and conditional logic to troubleshoot the start/stop functions and tonearm operations. Unfortunately, the SL-10 service manual doesn’t provide detailed information about the MN1400PA. I'm writing these notes as a cheatsheet for future myself and anyone else who might encounter similar issues—because, honestly, I just can’t keep all this in my head!
 
 <div class="blogPostImage">
 <img src="/assets/mysterious-mn1400pa/ports.png" alt="MN1400PA Microcontroller Ports" style="width: 200px"/>
