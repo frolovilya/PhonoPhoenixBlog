@@ -7,6 +7,8 @@
     border-top: 4px solid rgb(212, 29, 29);
 }
 
+// Main Page
+
 .bannersGroup {
     display: table; 
     width: 100%; 
@@ -80,6 +82,8 @@
     display: inline-block;
 }
 
+// Blog
+
 div.blogPostImage {
     text-align: center; 
     margin: 10px 0px;
@@ -87,4 +91,17 @@ div.blogPostImage {
 
 div.blogPostImage img {
     width: 80%;
+}
+
+.post-list h3 {
+    margin-bottom: 0px;
+}
+
+.post-excerpt {
+    font-size: 14px;
+    color: #828282;
+}
+
+.post-meta {
+    text-align: right;
 }

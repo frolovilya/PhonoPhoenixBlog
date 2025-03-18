@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Technics SL10 Blows 800mA Fuse"
-date:   2025-03-18
+excerpt: Investigating high current draw problem
+date:   2025-03-15
 categories: blog
+author: Ilia Frolov
 ---
 
 I recently bought an SL10 in seemingly mint condition from Kleinanzeigen. I received the package, opened it, and eagerly connected the turntable, excited to hear the original Technics MC cartridge. I turned it on and quickly went to grab a vinyl record. But when I returned, the turntable was dead—no buttons were working, and no lights were flashing. What a disappointment.
