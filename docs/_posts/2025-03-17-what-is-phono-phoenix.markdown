@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Phono Phönix Idea"
+title:  "What's Phono Phönix?"
 date:   2025-03-17
 categories: blog
 ---
