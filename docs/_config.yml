@@ -26,6 +26,9 @@ author: Ilia Frolov
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://phonophoenix.de" # the base hostname & protocol for your site, e.g. http://example.com
 
+# Link format for blog posts
+permalink: /blog/:title
+
 # Build settings
 theme: minima
 plugins:
