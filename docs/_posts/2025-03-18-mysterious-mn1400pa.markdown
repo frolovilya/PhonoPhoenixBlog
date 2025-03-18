@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mysterious MN1400PA"
-excerpt: Technics automatics microcontroller reference cheatsheet
+excerpt: Microcontroller used for Technics turntable automatics
 date:   2025-03-18
 categories: blog
 author: Ilia Frolov
