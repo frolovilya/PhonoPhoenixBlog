@@ -21,7 +21,7 @@ layout: home
 <div class="bannerInner">
     <div class="bannerTitle">Blog</div>
     <br>
-    <div class="bannerSubtitle">Audio Electronics Notes</div>
+    <div class="bannerSubtitle">Audio Electronics From Inside</div>
 </div>
 </a>
 
