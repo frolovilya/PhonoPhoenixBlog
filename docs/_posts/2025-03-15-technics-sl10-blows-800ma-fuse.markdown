@@ -11,7 +11,7 @@ I recently bought an SL10 in seemingly mint condition from Kleinanzeigen. I rece
 
 
 <div class="blogPostImage">
-<img src="/assets/technics-sl10-blows-800ma-fuse/sl10.jpg" alt="Technics SL10"/>
+<img src="/assets/posts/technics-sl10-blows-800ma-fuse/sl10.jpg" alt="Technics SL10"/>
 <div class="blogPostImageTitle">Technics SL10 linear tracking turntable</div>
 </div>
 
@@ -20,7 +20,7 @@ The deck was consistently blowing the F2 800mA fuse within approximately 3 secon
 
 
 <div class="blogPostImage">
-<img src="/assets/technics-sl10-blows-800ma-fuse/fuse.jpg" alt="F2 800mA Fuse"/>
+<img src="/assets/posts/technics-sl10-blows-800ma-fuse/fuse.jpg" alt="F2 800mA Fuse"/>
 <div class="blogPostImageTitle">F2 800mA fuse</div>
 </div>
 
@@ -31,7 +31,7 @@ The answer to the issue was fairly simple. The deck is trying to move the tonear
 
 
 <div class="blogPostImage">
-<img src="/assets/technics-sl10-blows-800ma-fuse/motor.jpg" alt="Tonearm Motor"/>
+<img src="/assets/posts/technics-sl10-blows-800ma-fuse/motor.jpg" alt="Tonearm Motor"/>
 <div class="blogPostImageTitle">Tonearm motor</div>
 </div>
 

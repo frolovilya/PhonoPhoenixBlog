@@ -10,7 +10,7 @@ author: Ilia Frolov
 With the properly working height adjustment ring you could perfectly align your tonearm in parallel with a record. 
 
 <div class="blogPostImage">
-<img src="/assets/technics-height-adjustment-ring/tonearm_parallel.png" alt="Technics Tonearm parallel to the record"/>
+<img src="/assets/posts/technics-height-adjustment-ring/tonearm_parallel.png" alt="Technics Tonearm parallel to the record"/>
 <div class="blogPostImageTitle">Tonearm parallel to the record (taken from Panasonic website)</div>
 </div>
 
