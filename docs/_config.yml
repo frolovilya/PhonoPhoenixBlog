@@ -21,8 +21,8 @@
 title: Phono Phönix
 email: info@phonophoenix.de
 author: Ilia Frolov
-#description: >- # this means to ignore newlines until "baseurl:"
-#  Hi-Fi Electronics 3D-Printed Spare Parts and Accessories
+description: >- # this means to ignore newlines until "baseurl:"
+  DJ and Hi-Fi Audio Electronics From Inside
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://phonophoenix.de" # the base hostname & protocol for your site, e.g. http://example.com
 

@@ -3,8 +3,23 @@
 
 @import "{{ site.theme }}";
 
+
+// Header
+
 .site-header {
     border-top: 4px solid rgb(212, 29, 29);
+}
+
+// Footer
+
+.footer-heading {
+    margin-bottom: 0px;
+}
+
+.footer-description {
+    margin-bottom: 20px;
+    font-size: 15px;
+    color: #828282;
 }
 
 // Main Page
