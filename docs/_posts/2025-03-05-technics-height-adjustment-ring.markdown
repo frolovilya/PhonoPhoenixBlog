@@ -5,6 +5,7 @@ excerpt: The most common problem on Technics turntables
 date:   2025-03-05
 categories: blog
 author: Ilia Frolov
+tags: Technics Repair
 ---
 
 With the properly working height adjustment ring you could perfectly align your tonearm in parallel with a record. 

@@ -36,6 +36,15 @@ show_excerpts: true
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-archives
+
+# Archives
+jekyll-archives:
+  enabled: [tags]
+  layouts: 
+    tag: tag-archive
+  permalinks:
+    tag: '/blog/tags/:name/'
 
 # Exclude from processing.
 # The following items will not be processed, by default.
