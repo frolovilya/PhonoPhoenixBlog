@@ -24,7 +24,7 @@ permalink: /blog
       </span>
       <div class="post-tags">
         {%- for tag in post.tags -%}
-        <div><a href="/blog/tags/{{ tag | escape }}">#{{ tag | escape }}</a></div>
+        <div><a href="/blog/tags/{{ tag | slugify }}">#{{ tag | escape }}</a></div>
         {%- endfor -%}
       </div>
     </li>

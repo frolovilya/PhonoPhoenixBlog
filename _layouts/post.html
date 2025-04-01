@@ -10,7 +10,7 @@ layout: default
 
     <div class="post-tags">
       {%- for tag in page.tags -%}
-      <div><a href="/blog/tags/{{ tag | escape }}">#{{ tag | escape }}</a></div>
+      <div><a href="/blog/tags/{{ tag | slugify }}">#{{ tag | escape }}</a></div>
       {%- endfor -%}
     </div>
   </header>
