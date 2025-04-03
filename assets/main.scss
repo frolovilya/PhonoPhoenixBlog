@@ -120,7 +120,7 @@ div.blogPostImage div.blogPostImageTitle {
 
 .post-excerpt {
     font-size: 14px;
-    color: #828282;
+    color: black;
 }
 
 .post-meta {
@@ -134,12 +134,16 @@ div.embedded-video {
 
 .post-tags div {
     font-size: 12px;
-    background-color: #c0c0c0;
+    background-color: #eeeeee;
     display: inline-block;
     padding: 2px 5px;
     color: white;
     border-radius: 4px;
     margin-right: 5px;
+}
+
+.post-tags a:active, .post-tags a:visited, .post-tags a:hover {
+    color: #828282;
 }
 
 .all-tags div {
