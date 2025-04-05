@@ -10,7 +10,9 @@ tags: Technics SL1200 SL1600 SL1700 SL1800 Repair Video
 
 Replacing the original bulb with an LED is a popular modification for Technics turntables. The original bulbs burn out quite often, and the replacement part can be expensive, while the LED option is significantly cheaper (günstiger!), brighter, and will last for the rest of the turntable's life. Here’s my video showing the full modification process:
 
-VIDEO
+<div class="embedded-video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UQZ803N67J0?si=tg2EckNwjEILIPTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 # Finding The Right Resistor
 
