@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "Technics SL1210 Height Adjustment Ring"
+title:  "Technics Tonearm Height Adjustment Ring"
 excerpt: The most common problem on Technics turntables
 date:   2025-03-05
 categories: blog
 author: Ilia Frolov
-tags: Technics Repair
+tags: Technics SL1200 SL1600 SL1700 SL1800 Repair Video
 ---
 
 With the properly working height adjustment ring you could perfectly align your tonearm in parallel with a record. 
 
 <div class="blogPostImage">
-<img src="/assets/posts/technics-height-adjustment-ring/tonearm_parallel.png" alt="Technics Tonearm parallel to the record"/>
+<img src="/assets/posts/technics-tonearm-height-adjustment-ring/tonearm_parallel.png" alt="Technics Tonearm parallel to the record"/>
 <div class="blogPostImageTitle">Tonearm parallel to the record (taken from Panasonic website)</div>
 </div>
 
