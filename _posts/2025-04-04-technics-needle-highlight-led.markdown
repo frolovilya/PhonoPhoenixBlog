@@ -8,15 +8,17 @@ author: Ilia Frolov
 tags: Technics SL1200 SL1600 SL1700 SL1800 Repair Video
 ---
 
-Replacing the original bulb with an LED is a popular modification for Technics turntables. The original bulbs burn out quite often, and the replacement part can be expensive, while the LED option is significantly cheaper (günstiger!), brighter, and will last for the rest of the turntable's life. Here’s my video showing the full modification process:
+Replacing the original bulb with an LED is a popular modification for Technics SL1210/1200 MK2 turntables. The original bulbs burn out quite often, and the replacement part can be expensive, while the LED option is significantly cheaper (günstiger!), brighter, and will last for the rest of the turntable's life. Here’s my video showing the full modification process:
 
 <div class="embedded-video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UQZ803N67J0?si=tg2EckNwjEILIPTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
+The same method also works for SL1600, SL1700 and SL1800 (MK2) Hi-Fi turntables, as they share similar lamps.
+
 # Finding The Right Resistor
 
-The Technics SL1210 supplies around 21V DC to the needle lamp, which is too much for many LEDs. For example, the warm white LED I use is designed for a 3.6V forward voltage and draws around 18mA of current.
+Technics SL1210/SL1200 MK2 supplies around 21V DC to the needle lamp, which is too much for many LEDs. For example, the warm white LED I use is designed for a 3.6V forward voltage and draws around 18mA of current.
 
 An elementary calculation for the resistor to drop another 17.4V:
 
