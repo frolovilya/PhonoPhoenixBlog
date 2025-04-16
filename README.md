@@ -1,3 +1,3 @@
 # Phono Phoenix
 
-[PhonoPhoenix.de](PhonoPhoenix.de) website sources
+[PhonoPhoenix.de](https://phonophoenix.de) blog sources

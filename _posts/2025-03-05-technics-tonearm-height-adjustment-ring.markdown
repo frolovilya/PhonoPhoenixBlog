@@ -6,6 +6,7 @@ date:   2025-03-05
 categories: blog
 author: Ilia Frolov
 tags: Technics SL1200 SL1600 SL1700 SL1800 Turntable Video
+thumbnail: /assets/posts/technics-tonearm-height-adjustment-ring/thumbnail.jpg
 ---
 
 With the properly working height adjustment ring you could perfectly align your tonearm in parallel with a record. 

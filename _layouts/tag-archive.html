@@ -3,7 +3,9 @@ layout: default
 ---
 
 <header class="post-header">
-    <h1 class="post-title" style="float: left"><a href="/blog">Blog</a>&nbsp;/&nbsp;</h1>
+    <h1 class="post-title" style="float: left">
+        <a href="/">Blog</a>&nbsp;/&nbsp;<a href="/blog/tags">Tags</a>&nbsp;/&nbsp;
+    </h1>
 
     <h1 class="post-title p-name" itemprop="name headline">#{{ page.title | escape }}</h1>
 </header>
@@ -11,23 +13,7 @@ layout: default
 <div>
     <ul class="post-list">
         {% for post in page.posts %}
-        <li>
-            <h3>
-                <a class="post-link" href="{{ post.url | relative_url }}">
-                    {{ post.title | escape }}
-                </a>
-            </h3>
-            <span class="post-excerpt">
-                {%- if site.show_excerpts -%}
-                {{ post.excerpt }}
-                {%- endif -%}
-            </span>
-            <div class="post-tags">
-                {%- for tag in post.tags -%}
-                <div><a href="/blog/tags/{{ tag | slugify }}">#{{ tag | escape }}</a></div>
-                {%- endfor -%}
-            </div>
-        </li>
+        {% include blog-post-li.html %}
         {%- endfor -%}
     </ul>
 </div>

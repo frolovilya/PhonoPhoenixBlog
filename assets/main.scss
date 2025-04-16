@@ -10,6 +10,22 @@
     border-top: 4px solid rgb(212, 29, 29);
 }
 
+.header-title {
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.header-title .site-title {
+    float: none;
+    line-height: normal;
+}
+
+.header-description {
+    margin-bottom: 20px;
+    font-size: 15px;
+    color: #828282;
+}
+
 // Footer
 
 .footer-heading {
@@ -98,6 +114,18 @@
 }
 
 // Blog
+
+.post-thubmnail {
+    float: left;
+    width: 100px;
+    height: 60px;
+    margin-top: 10px;
+    vertical-align: top;
+}
+
+.post-info {
+    margin-left: 110px;
+}
 
 div.blogPostImage {
     text-align: center;

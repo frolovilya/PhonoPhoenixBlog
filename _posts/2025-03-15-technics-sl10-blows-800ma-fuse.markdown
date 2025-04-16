@@ -6,6 +6,7 @@ date:   2025-03-15
 categories: blog
 author: Ilia Frolov
 tags: Technics SL10 Turntable
+thumbnail: /assets/posts/technics-sl10-blows-800ma-fuse/thumbnail.jpg
 ---
 
 I recently bought an SL10 in seemingly mint condition from Kleinanzeigen. I received the package, opened it, and eagerly connected the turntable, excited to hear the original Technics MC cartridge. I turned it on and quickly went to grab a vinyl record. But when I returned, the turntable was dead—no buttons were working, and no lights were flashing. What a disappointment.

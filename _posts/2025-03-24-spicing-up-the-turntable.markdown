@@ -6,6 +6,7 @@ date:   2025-03-24
 categories: blog
 author: Ilia Frolov
 tags: Technics Turntable
+thumbnail: /assets/posts/spicing-up-the-turntable/thumbnail.jpeg
 ---
 
 I found this topic both broad and fascinating when I was restoring my first pair of Technics. Many of these devices are now around 30 years old and have never been serviced in their lifetime. They are often full of dust, dirt, and sometimes even remnants of alcohol and party glitter. The height adjustment rings can get stuck, and the pitch faders can become rusted and scratchy. All of these issues require proper cleaning, re-greasing, and re-oiling. And of course, selecting the right materials is always a challenge.

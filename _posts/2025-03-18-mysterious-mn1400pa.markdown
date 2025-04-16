@@ -6,6 +6,7 @@ date:   2025-03-18
 categories: blog
 author: Ilia Frolov
 tags: Technics SL10 SL1600 Turntable
+thumbnail: /assets/posts/mysterious-mn1400pa/thumbnail.jpg
 ---
 
 The MN1400PA is a 28-pin proprietary microcontroller developed by Technics, responsible for controlling the automatic functions of their turntables, including tonearm movement, start/stop and cueing mechanisms.
