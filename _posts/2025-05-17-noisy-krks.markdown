@@ -77,16 +77,16 @@ The peak-to-peak voltage fluctuation is now like for all other caps, around 400m
 <div class="blogPostImageTitle">Degraded capacitance</div>
 </div>
 
-This +/- 19V voltage directly drives the TDA2052 amplifier and all changes in the voltage level also seen and heard on the amplifier output. After fixing the caps the cracking noise was fixed, but still there were random quiet cracks on the tweeter.
+This +/- 19V voltage directly drives the TDA2052 amplifier and all changes in the voltage level also seen and heard on the amplifier output. After fixing the caps, the hiss noise problem was solved, but still there were random quiet cracks on the tweeter.
 
-All PCB were covered with a black substance to reduce vibrations impact I believe, but with the time it become stiff and started to conduct electricity. You can find lots of similar problem reports. I decided to follow the advices and remove this black dirt completely. 
+All PCB were covered with a black substance to reduce vibrations impact, I believe, but with the time it become stiff and started to conduct electricity. You can find lots of similar problem reports and videos on YouTube. I decided to follow the advices and remove this black dirt completely. 
 
 <div class="blogPostImage">
 <img src="/assets/posts/noisy-krks/dirt-connectivity-1.jpeg" />
 <div class="blogPostImageTitle">There's a small connectivity between two random points through this dirt, still can impact the noise</div>
 </div>
 
-After cleaning the dirt, one capacitor and one resistor were completely rusted and must be replaced. So this dirt not only conductive, but also resulted to a rust problem all over the PCB.
+After cleaning the dirt, one capacitor and one resistor were completely rusted and were replaced. So this dirt not only conductive, but also resulted to a rust problem all over the PCB.
 
 <div class="blogPostImage">
 <img src="/assets/posts/noisy-krks/dirty-pcb-1.jpeg" />
