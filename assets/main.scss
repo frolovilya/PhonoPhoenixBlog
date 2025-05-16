@@ -115,6 +115,15 @@
 
 // Blog
 
+.post-list > li {
+    padding: 15px;
+    margin: 0;
+}
+
+.post-list > li:nth-child(even) {
+    background-color: #f7f7f7;
+}
+
 .post-thubmnail {
     float: left;
     width: 100px;
