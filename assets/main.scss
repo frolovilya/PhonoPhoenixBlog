@@ -118,17 +118,18 @@
 .post-list > li {
     padding: 15px;
     margin: 0;
+    overflow: auto;
 }
 
-.post-list > li:nth-child(even) {
+.post-list > li:nth-child(odd) {
     background-color: #f7f7f7;
 }
 
 .post-thubmnail {
     float: left;
     width: 100px;
-    height: 60px;
     margin-top: 10px;
+    margin-bottom: 10px;
     vertical-align: top;
 }
 

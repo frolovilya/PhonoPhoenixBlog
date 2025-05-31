@@ -9,14 +9,14 @@ tags: KRK RP5G2 Monitors
 thumbnail: /assets/posts/noisy-krks-part-1/thumbnail.jpeg
 ---
 
-KRK monitors are a popular choise for DJ setups, especially for bass-heavy music lovers. They are relatively cheap and sound great. At the same time, when you look on Kleinanzeigen or eBay, there're many used KRKs on sale with various problems. I decided to buy a pair and check myself what it's like inside and if they're easy to fix. In my case there were no sound coming out of on of the monitors at all.
+KRK monitors are a popular choise for DJ setups, especially for bass-heavy music lovers. They are relatively cheap and sound decent. At the same time, when you look on Kleinanzeigen or eBay, there're many used KRKs on sale with various problems. I decided to buy a pair and check myself what it's like inside and if they're easy to fix. In my case there were no sound coming out of on of the monitors at all.
 
 <div class="blogPostImage">
 <img src="/assets/posts/noisy-krks-part-1/krk-rp5-g2.jpeg" />
 <div class="blogPostImageTitle">KRK RP5 G2</div>
 </div>
 
-Here's how the monitor look from inside. Split power supply, pre-amp for the incoming signal and two amplifiers for low and high frequency speakers.
+Here's how the monitor look from inside. Split power supply, pre-amp for the incoming signal and two amplifiers for low and high frequency speakers. Cheap components and fairly inaccurate PCB montage. PreSonus Eris is way ahead in the same price range in terms of quality and components used.
 
 <div class="blogPostImage">
 <img src="/assets/posts/noisy-krks-part-1/inside-the-monitor.jpeg" />
