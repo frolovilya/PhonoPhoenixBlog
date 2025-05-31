@@ -38,6 +38,30 @@
     color: #828282;
 }
 
+// Social Media links 
+
+.social-media-list {
+    float: right;
+}
+
+.social-media-list > li {
+    display: inline-block;
+    padding-right: 5px;
+}
+
+.social-media-list .username {
+    display: none;
+}
+
+.social-media-list .svg-icon {
+    width: 24px;
+    height: 24px;
+}
+
+.social-media-list .svg-icon use {
+    transform: scale(1.5);
+}
+
 // Main Page
 
 .bannersGroup {
